@@ -1,0 +1,12 @@
+save-as/
+|-- manifest.json
+|-- popup.html
+|-- popup.js
+|-- background.js
+|-- content.js
+|-- icons/
+    |-- icon.png
+|-- libs/
+    |-- html2pdf.bundle.min.js
+    |-- FileSaver.min.js
+
